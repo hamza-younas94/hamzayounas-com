@@ -1,7 +1,6 @@
-My portfolio.
 
 ## Hamza Younas
-I am an experienced, enthusiastic and self-motivated Full Stack Web Developer with a great passion for PHP, MySQL, Laravel, Slim, Silex, Bootstrap,Google Cloud, AWS Services.
+I am an experienced, enthusiastic and self-motivated Full Stack Web Developer with a great passion for PHP, MySQL, Laravel, Slim, Silex, Bootstrap, Google Cloud, AWS Services.
 
 ## TECHNICAL KILLS
 
@@ -84,9 +83,5 @@ I am an experienced, enthusiastic and self-motivated Full Stack Web Developer wi
 
 
 
-***Contact 
-
-
-
-
-
+### Contact
+You can reach me at : hamza.younas94@gmail.com
