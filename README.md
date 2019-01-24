@@ -1,9 +1,26 @@
-# HamzaYounas.com
 My portfolio.
 
 ## Hamza Younas
 I am an experienced, enthusiastic and self-motivated Full Stack Web Developer with a great passion for PHP, MySQL, Laravel, Slim, Silex, Bootstrap,Google Cloud, AWS Services.
 
+## TECHNICAL KILLS
+
+    - Laravel
+    - API
+    - PHP / My-SQLi 
+    - Linux + Server Management
+    - Domains / Hosting 
+    - Lumen / Silex / Slim
+    - Javascript / jQuery
+    - Bootstrap 3
+    - WordPress
+    - Website SEO Optimization
+    - Website Speed Optimization
+    - Html/CSS
+    - PayPal Integration
+    - Networking
+    - Internet surfing
+    
 ## AREA OF EXPERTIZATION
     - CRM Development
     - Software Development
@@ -17,7 +34,7 @@ I am an experienced, enthusiastic and self-motivated Full Stack Web Developer wi
     - Forums
     
     
- ### Mikaels Labs Pakistan 	(July 2018 to till now)
+ ### Mikaels Labs Pakistan 	       (July 2018 to till now)
     - Working as a Senior PHP Associate 
     - Developing webs apps and api for our European client
     - Linux server management
