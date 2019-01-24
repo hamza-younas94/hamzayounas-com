@@ -9,11 +9,10 @@ I am an experienced, enthusiastic and self-motivated Full Stack Web Developer wi
 
 ||||||
 |-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
-|**HTML5**|**CSS3**|**Javascript (ES5/ES6/ES7/ES8)**|
-|**Jquery**|**Lodash**|**Rxjs**|**Redux**|**React**|
-|**Nodejs**|**Expressjs**|**Mongoosejs**|**Sequelizejs**|**Firebase Admin**|
-|**Firebase Authentication**|**Firebase Cloud Messenging**|**Firebase Cloud Functions**|**Firebase Storage**|
-|**MongoDB**|**MySQL**|**Firebase Realtime Database**|**JWT Token**|
+|**PHP**|**MySQL**|**Laravel**|**Slim**|**Silex**|
+|**Lumen**|**Team Management**|**Website Optimization**|**SEO**|**Web Security**|
+|**HTML**|**CSS**|**Javascript**||**Jquery**|**PayPal**|
+|**Linux Server**|**AWS**|**Goolge Cloud **|
 |**Git**|**Github**|**Bitbuket**|
 
 ****__Contact 
