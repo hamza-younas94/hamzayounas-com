@@ -41,6 +41,7 @@ I am an experienced, enthusiastic and self-motivated Full Stack Web Developer wi
     - Domain and Hosting Server management 
     - Custom application development
     - Software Deployment
+    
 ### Nexus Corporation 				(Oct 2014 to Dec 2017)
     - Worked as Teamlead
     - Development and managing modules in CRM
@@ -49,6 +50,7 @@ I am an experienced, enthusiastic and self-motivated Full Stack Web Developer wi
     - Managing UI & PHP team
     - Custom Order Forms.
     - Website optimization.
+    
 ### Badar Expo Solutions 				(Mar 2014 to Oct 2014)
     - Worked as a Software & Web Developer for International Defence Exhibition and Seminar IDEAS 2014.
     - Visitors registration, security clearance badge printing
